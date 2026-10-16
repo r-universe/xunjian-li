@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "SpectralMM"]
+	path = SpectralMM
+	url = https://github.com/xunjian-li/spectralmm
+	subdir = R
